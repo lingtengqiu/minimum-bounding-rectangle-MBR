@@ -1,0 +1,37 @@
+<annotation>
+  <folder>label</folder>
+  <filename>012_0_19_1_1.png</filename>
+  <source>
+    <database>qlt</database>
+  </source>
+  <size>
+    <width>1424</width>
+    <height>632</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>defect</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>199</xmin>
+      <ymin>452</ymin>
+      <xmax>215</xmax>
+      <ymax>474</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>defect</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>221</xmin>
+      <ymin>462</ymin>
+      <xmax>247</xmax>
+      <ymax>490</ymax>
+    </bndbox>
+  </object>
+</annotation>

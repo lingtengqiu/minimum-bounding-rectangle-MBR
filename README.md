@@ -1,0 +1,1 @@
+min_rect_for_mask

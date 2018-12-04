@@ -1,0 +1,25 @@
+<annotation>
+  <folder>label</folder>
+  <filename>015_5_13_2_1.png</filename>
+  <source>
+    <database>qlt</database>
+  </source>
+  <size>
+    <width>1424</width>
+    <height>632</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>defect</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>334</xmin>
+      <ymin>1174</ymin>
+      <xmax>382</xmax>
+      <ymax>1229</ymax>
+    </bndbox>
+  </object>
+</annotation>

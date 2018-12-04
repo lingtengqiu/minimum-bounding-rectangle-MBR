@@ -1,0 +1,37 @@
+<annotation>
+  <folder>label</folder>
+  <filename>006_4_25_1_1.png</filename>
+  <source>
+    <database>qlt</database>
+  </source>
+  <size>
+    <width>1424</width>
+    <height>632</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>defect</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>591</xmin>
+      <ymin>382</ymin>
+      <xmax>610</xmax>
+      <ymax>412</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>defect</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>331</xmin>
+      <ymin>935</ymin>
+      <xmax>379</xmax>
+      <ymax>1087</ymax>
+    </bndbox>
+  </object>
+</annotation>
